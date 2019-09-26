@@ -1,5 +1,4 @@
-Sprouttttiiii
+Sprout.ng
 
-## Available notes
-we grow by learning
+## Ignite Africa Dashboard source Code
 
